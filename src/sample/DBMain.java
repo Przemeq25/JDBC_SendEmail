@@ -16,7 +16,7 @@ public class DBMain {
     static final String JDBC_DRIVER = "org.postgresql.Driver";
     static final String DB_URL = "jdbc:postgresql://195.150.230.210:5434/2019_cichon_przemyslaw";
     static final String USER = "2019_cichon_przemyslaw";
-    static final String PASS ="przemcio687";
+    static final String PASS ="";
 
 
     public ArrayList connectDatabase(){
